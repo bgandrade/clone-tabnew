@@ -1,0 +1,24 @@
+# dependências
+node_modules/
+
+# build/output
+.next/
+out/
+dist/
+
+# logs e caches
+npm-debug.log*
+yarn-debug.log*
+pnpm-debug.log*
+*.log
+.eslintcache
+.turbo/
+
+# envs
+.env
+.env.local
+.env.*.local
+
+# outros
+.DS_Store
+.vercel/
